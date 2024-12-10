@@ -17,7 +17,7 @@ This project involves developing a chatbot using Natural Language Processing (NL
 ## Technologies and software Used
 - **Python**
 - **NLTK**
-- **Vitual studio code/ jupyter notebook**
+- **Visual studio code/ jupyter notebook**
 - **Scikit-learn**
 - **Streamlit**
 - **JSON** for intents data
