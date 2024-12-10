@@ -3,19 +3,21 @@
 
 ## Overview
 This project involves developing a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to interpret user intents and deliver appropriate responses by matching input against predefined patterns and responses. It leverages the `nltk` library for NLP tasks, `scikit-learn` for machine learning functionalities, and `streamlit` to build an interactive web-based interface.
+
 ---
 
-## Features
-- Understands various user intents such as greetings, farewells, gratitude, and more.
-- Provides relevant responses based on user input.
-- Maintains a conversation history that can be viewed by the user.
-- Built using Python and leverages popular libraries for NLP and machine learning.
+## Features of chatbot
+- Recognizes a range of user intents, including greetings, name inquiries, gratitude, help requests, weather queries, and more.
+- Delivers appropriate responses based on the user's input.
+- Keeps track of the conversation history, allowing the user to view past interactions.
+- Developed in Python, utilizing well-known libraries for NLP and machine learning.
 
 ---
 
 ## Technologies and software Used
 - **Python**
 - **NLTK**
+- **Jupyter notebook**
 - **Scikit-learn**
 - **Streamlit**
 - **JSON** for intents data
