@@ -1,9 +1,8 @@
 
-# Chatbot using NLP
+# Implementation of Chatbot using NLP
 
 ## Overview
-This project implements a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to understand user intents and provide appropriate responses based on predefined patterns and responses. It utilizes the `nltk` library for natural language processing, `scikit-learn` for machine learning, and `streamlit` for creating an interactive web interface.
-
+This project involves developing a chatbot using Natural Language Processing (NLP) techniques. The chatbot is designed to interpret user intents and deliver appropriate responses by matching input against predefined patterns and responses. It leverages the `nltk` library for NLP tasks, `scikit-learn` for machine learning functionalities, and `streamlit` to build an interactive web-based interface.
 ---
 
 ## Features
@@ -14,7 +13,7 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 
 ---
 
-## Technologies Used
+## Technologies and software Used
 - **Python**
 - **NLTK**
 - **Scikit-learn**
@@ -23,7 +22,7 @@ This project implements a chatbot using Natural Language Processing (NLP) techni
 
 ---
 
-## Installation
+## Installation process
 
 ### 1. Clone the Repository
 ```bash
@@ -42,7 +41,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-### 4. Download NLTK Data
+### 4. Download NLTK Data in cmd
 ```python
 import nltk
 nltk.download('punkt')
@@ -50,7 +49,7 @@ nltk.download('punkt')
 
 ---
 
-## Usage
+## Implementation of chatbot
 To run the chatbot application, execute the following command:
 ```bash
 streamlit run app.py
